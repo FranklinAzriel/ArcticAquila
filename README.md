@@ -10,9 +10,9 @@ Welcome to my GitHub profile! I'm a passionate developer who enjoys working with
 
 Here are some of the technologies and tools I'm familiar with:
 
-- Programming Languages: Kotlin, C, Rust, Java, Python, JavaScript
-- Build Tools: Gradle, Make
-- Operating Systems: Arch Linux, Windows
+- Programming Languages: Kotlin, C, Python, JavaScript
+- Build Tools: Gradle and Make
+- Operating Systems: Linux From Scratch and Windows 11
 
 Feel free to explore my repositories to see some of my code samples and projects!
 

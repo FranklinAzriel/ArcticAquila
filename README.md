@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate developer who enjoys working with Kotlin and exploring different technologies. I primarily use Nix OS and Windows 11 for my development environment.
 
 ## 💬 About Me
-- Forever be dyed [AquaIro](https://www.youtube.com/@MinatoAqua)
+- Forever be dyed in [Aqua-Iro](https://www.youtube.com/@MinatoAqua)
 - Hobby: Sleeping 😴
 
 ## 📚 Technologies
